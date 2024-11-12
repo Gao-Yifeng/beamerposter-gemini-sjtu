@@ -1,0 +1,17 @@
+build/
+
+# output
+*.pdf
+
+# intermediate files
+poster.synctex.gz
+*.aux
+*.bbl
+*.blg
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.fdb_latexmk
+*.fls
