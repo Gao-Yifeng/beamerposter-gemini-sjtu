@@ -2,6 +2,7 @@ build/
 
 # output
 *.pdf
+!examples/*.pdf
 
 # intermediate files
 poster.synctex.gz
